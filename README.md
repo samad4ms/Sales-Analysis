@@ -1,5 +1,5 @@
 # Sales-Analysis
-Analyzing +150k observations of sales data and answering critical business questions. 
+Analyzing +180k observations of sales data and answering critical business questions. 
 
 Main files in this repo:
 
