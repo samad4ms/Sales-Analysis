@@ -10,7 +10,7 @@ Main files in this repo:
 The 12 csv files concatenated into one. 
 
 3) SALES_ANALYSIS.ipynb<br>
-Notebook containing all of the analysis. Business questions answered in this notebook include:
+Notebook containing all of the analysis. Business questions answered in this notebook include:<br>
   a) Best month for sales?<br>
   b) What city had the most sales<br>
   c) What time should we display advertisements to maximize the likelihood of customer's buying product?<br>
